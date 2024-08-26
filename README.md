@@ -1,0 +1,1 @@
+Projeto foi criado com o intuito de utilizar o REDUX. Aprender sobre o gerenciamento de estado utilizando o mesmo.
